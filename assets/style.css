@@ -7,4 +7,16 @@
 .container{
     width: 1170px;
     margin: 0 auto;
+    padding: 0.5rem;
+}
+
+.col-nested{
+    min-height: 30px;
+    background-color: green;
+    border: 1px solid rgb(38, 169, 246);
+}
+
+.content{
+    text-align: center;
+    color: white;
 }
